@@ -2466,7 +2466,7 @@ class PDF::Writer
     :single   => { },
     :replace  => { }
   }
-  TAGS.freeze
+  #TAGS.freeze
 
     # A callback to support the formation of clickable links to external
     # locations.
